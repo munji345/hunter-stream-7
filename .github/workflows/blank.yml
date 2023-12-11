@@ -1,0 +1,59 @@
+- hunter-stream-7/
+  - index.html
+  - signup.html
+  - account.html
+  - menu.html
+  - submission.html
+  - console.html
+  - styles.css
+  - script_index.js
+  - script_signup.js
+  - script_account.js
+  - script_menu.js
+  - script_submission.js
+  - script_console.js
+  - backend.php
+  - .gitignore
+  - README.md
+# This is a basic workflow to help you get started with Actions
+# .gitignore
+vendor/
+node_modules/
+.DS_Store
+# Hunter Stream 7
+
+This is a web application for music distribution.
+
+## Features
+
+- Login and sign-up functionality
+- User account management
+- Music submission
+- Developer console for backend management
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- (Add other technologies as needed)
+
+## Setup
+
+1. Clone the repository.
+2. Open the HTML files in a web browser.
+
+Feel free to customize this README according to your project details.
+# Controls when the workflow will run
+git clone https://github.com/munji345/hunter-stream-7.git
+
+# Controls when the workflow will run
+cd hunter-stream-7
+git add .
+git commit -m "Initial commit"
+# Controls when the workflow will run
+git push origin main
+
+
+
