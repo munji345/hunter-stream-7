@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="Sign-Up Page" href="styles.css">
+    <script src="Menu Page.js" defer></script>
+    <title>Hunter Stream 7 - Menu</title>
+</head>
+<body class="dark-mode">
+    <div class="menu-container">
+        <h1>Menu</h1>
+        <nav>
+            <!-- Menu options, including light/dark mode toggle -->
+            <ul>
+                <li><a href="Login Page.html">Login</a></li>
+                <li><a href="Sign-Up Page.html">Sign Up</a></li>
+                <li><a href="Account Page.html">Account</a></li>
+                <!-- Add more menu options as needed -->
+            </ul>
+        </nav>
+    </div>
+
+    <button id="dark-mode-toggle">Toggle Dark Mode</button>
+	<script src="Menu Page.js" defer></script>
+</body>
+</html>

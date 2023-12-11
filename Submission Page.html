@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="Submission Page" href="styles.css">
+	<script src="Submission Page.js" defer></script>
+    <title>Hunter Stream 7 - Submission</title>
+</head>
+<body class="dark-mode">
+    <div class="submission-container">
+        <h1>Music Submission</h1>
+        <form>
+            <!-- Music submission form goes here -->
+            <label for="song-title">Song Title:</label>
+            <input type="text" id="song-title" name="song-title" required>
+            
+            <label for="artist">Artist:</label>
+            <input type="text" id="artist" name="artist" required>
+            
+            <label for="file">Select File:</label>
+            <input type="file" id="file" name="file" accept="audio/*" required>
+            
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <button id="dark-mode-toggle">Toggle Dark Mode</button>
+</body>
+</html>
